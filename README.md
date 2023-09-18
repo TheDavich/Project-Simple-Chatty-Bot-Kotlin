@@ -8,4 +8,10 @@ How to use Simple Chatty Bot?
 2. Write reminders of dividing your age by 3, 5 and 7
 3. Write any number in the console
 4. Answer small programming question
-<img width="1512" alt="Снимок экрана 2023-09-18 в 12 50 03" src="https://github.com/TheDavich/Project-Simple-Chatty-Bot-Kotlin/assets/87846576/d54a7c35-2cfa-425b-b569-b7489cd16c27">
+
+<img width="1512" alt="1" src="https://github.com/TheDavich/Project-Simple-Chatty-Bot-Kotlin/assets/87846576/04c37906-48a6-491c-b32f-bc03ba45f3d7">
+
+
+<img width="1512" alt="2" src="https://github.com/TheDavich/Project-Simple-Chatty-Bot-Kotlin/assets/87846576/3b8c087a-5e75-4f81-a863-7be863067006">
+
+<img width="1512" alt="3" src="https://github.com/TheDavich/Project-Simple-Chatty-Bot-Kotlin/assets/87846576/6dac7c17-db8a-4476-9a2f-e60d6b495c47">
